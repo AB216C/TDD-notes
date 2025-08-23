@@ -31,3 +31,17 @@ Having gone through both the Red and Green phases:
 
 Red: Writing a test case that outlines a desired functionality.
 Green: Writing the simplest solution to pass the test.
+
+
+# Last step: 
+
+Run the test_app.py
+
+
+# Expected result: PASSED
+
+OK
+
+
+
+
