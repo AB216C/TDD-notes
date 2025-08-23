@@ -1,3 +1,11 @@
+# Packages
+
+pip install flask
+
+# UNITTEST
+
+IT IS A PYTHON BUILT IN TEST
+
 # Why Use TDD?
 # There are several benefits to using TDD:
 
@@ -32,6 +40,13 @@ Having gone through both the Red and Green phases:
 Red: Writing a test case that outlines a desired functionality.
 Green: Writing the simplest solution to pass the test.
 
+# THE THREE PHASES OF TDD:
+
+# Red: Planning Functionality and Creating a test case that will fail, since we have not yet implemented the functionality
+
+# Green: Providing the most basic solution to pass the test case
+
+# Refactoring: Reanalyzing our solution to see if there is anything that can be cleaned up, made more efficient, or made more robust.
 
 # Last step: 
 
@@ -41,6 +56,9 @@ Run the test_app.py
 # Expected result: PASSED
 
 OK
+
+
+
 
 
 
